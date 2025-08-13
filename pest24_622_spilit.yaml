@@ -1,0 +1,16 @@
+# dataset path
+path: /root/
+train: ./dataset/pest24_622_spilit/images/train  # path + train
+val: ./dataset/pest24_622_spilit/images/val # path + val
+test: ./dataset/pest24_622_spilit/images/test # path + test
+
+# number of classes
+nc: 24
+
+# class names
+names: ['Bollworm', 'Meadow borer', 'Gryllotalpa orientalis', 'Little Gecko',
+         'Agriotes fuscicollis Miwa', 'Nematode trench','Athetis lepigone', 'Scotogramma trifolii Rottemberg',
+         'Armyworm', 'Spodoptera cabbage', 'Anomala corpulenta','Spodoptera exigua',
+         'Plutella xylostella', 'holotrichia parallela', 'Rice planthopper', 'Yellow tiger',
+        'Land tiger', 'eight-character tiger', 'holotrichia oblita', 'Stem borer',
+         'Striped rice bore','Rice Leaf Roller', 'Spodoptera litura', 'Melahotus']
