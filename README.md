@@ -1,1 +1,1 @@
-Dataset split files for YOLO-LCE agricultural pest detection model evaluation on Pest24 dataset. Contains train/validation/test split files used in our paper "YOLO-LCE: A Lightweight YOLOv8 Model for Agricultural Pest Detection".
+These are the Pest24 split files we used.
